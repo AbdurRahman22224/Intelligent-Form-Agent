@@ -2,6 +2,11 @@
 
 An AI-powered system that processes and understands a wide variety of forms, automatically extracts information from structured and unstructured fields, and provides intelligent answers to questions about individual or multiple forms.
 
+--
+
+Video Demo: [Drive Link](https://drive.google.com/file/d/1ROvQi84aFawzthiMV1nm4AgvXkIxQY40/view?usp=sharing)
+
+--
 ## 🎯 Purpose
 
 The Intelligent Form Agent can:
@@ -16,10 +21,10 @@ The Intelligent Form Agent can:
 ```
 project_root/
 │
-├── src/              # Main agent code
+├── src/             # Main agent code
 │   ├── llm/         # OCR module (PyMuPDF + Tesseract)
-│   ├── ocr/          # Question answering module
-│   ├── qa/         # Gemini LLM integration
+│   ├── ocr/         # Question answering module
+│   ├── qa/          # Gemini LLM integration
 │   └── utils/       # Storage utilities
 │
 ├── data/            # Sample forms or test files
