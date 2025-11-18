@@ -2,11 +2,8 @@
 
 An AI-powered system that processes and understands a wide variety of forms, automatically extracts information from structured and unstructured fields, and provides intelligent answers to questions about individual or multiple forms.
 
---
-
 Video Demo: [Drive Link](https://drive.google.com/file/d/1ROvQi84aFawzthiMV1nm4AgvXkIxQY40/view?usp=sharing)
 
---
 ## 🎯 Purpose
 
 The Intelligent Form Agent can:
